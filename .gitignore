@@ -1,0 +1,10 @@
+# directories #
+RemoteSystemsTempFiles/
+.metadata/
+
+# compiled files #
+*.class
+*.jar
+*.war
+*.ear
+
